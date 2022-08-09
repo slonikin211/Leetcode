@@ -1,5 +1,9 @@
-# C++
+# Overral
 *.exe
+.vscode/
+
+
+# C++
 *.o
 build/
 
